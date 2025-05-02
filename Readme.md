@@ -1,4 +1,4 @@
-# Maze Labyrinth 6x6
+# Dynamic-6x6-Maze-Solver-with-DQN-and-Dyna-Q-Agents
 
 Reinforcement learning project comparing **DQN** and **Dyna-Q** agents in a procedurally generated 6x6 maze environment.
 
@@ -64,17 +64,47 @@ Both agents support:
 
 ### 📡 **DQN - Test Episode**
 
-![DQN Test Episode](https://raw.githubusercontent.com/ushio2580/Dynamic-6x6-Maze-Solver-with-DQN-and-Dyna-Q-Agents/f52be82ec287b3dfd5066b7e417e5a4200d41c31/assets/dqn/test_ep_1.gif)
+![DQN Test Episode](https://raw.githubusercontent.com/ushio2580/Dynamic-6x6-Maze-Solver-with-DQN-and-Dyna-Q-Agents/b85ad2398d83784926a8e8f9ae062cc882cfcfbd/assets/dqn/dnq-loop.gif)
 
-- **DQN**: Success rate: **100%**, Average steps: **10.00**
+- **Early stopping**: agent has reached the goal over **100** times.  
+- **Training completed**: Best average reward: **74.12**  
+
+- **Test 1**: Success | Steps: **5**  
+- **Test 2**: Success | Steps: **5**  
+- **Test 3**: Success | Steps: **5**  
+- **Test 4**: Success | Steps: **5**  
+- **Test 5**: Success | Steps: **5**  
+- **Test 6**: Success | Steps: **5**  
+- **Test 7**: Success | Steps: **5**  
+- **Test 8**: Success | Steps: **5**  
+- **Test 9**: Success | Steps: **5**  
+- **Test 10**: Success | Steps: **5**  
+
+- **Success Rate**: **100%** | **Avg Steps per Episode**: **5.00**
 
 ---
 
 ### 🤖 **Dyna-Q - Test Episode**
 
-![Dyna-Q Test Episode](https://raw.githubusercontent.com/ushio2580/Dynamic-6x6-Maze-Solver-with-DQN-and-Dyna-Q-Agents/main/assets/dynaq/test_ep_1.gif)
+![Dyna-Q Test Episode](https://raw.githubusercontent.com/ushio2580/Dynamic-6x6-Maze-Solver-with-DQN-and-Dyna-Q-Agents/b85ad2398d83784926a8e8f9ae062cc882cfcfbd/assets/dynaq/dynaq-loop.gif)
 
-- **Dyna-Q**: Success rate: **100%**, Average steps: **10.00**
+
+
+- **Early stopping**: agent has reached the goal over **100** times.  
+- **Training completed**: Best average reward: **67.09**  
+
+- **Test 1**: Success | Steps: **4**  
+- **Test 2**: Success | Steps: **4**  
+- **Test 3**: Success | Steps: **4**  
+- **Test 4**: Success | Steps: **4**  
+- **Test 5**: Success | Steps: **4**  
+- **Test 6**: Success | Steps: **4**  
+- **Test 7**: Success | Steps: **4**  
+- **Test 8**: Success | Steps: **4**  
+- **Test 9**: Success | Steps: **4**  
+- **Test 10**: Success | Steps: **4**  
+
+- **Success Rate**: **100%** | **Avg Steps per Episode**: **4.00**
 
 ---
 
