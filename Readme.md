@@ -64,7 +64,7 @@ Both agents support:
 
 ### 📡 **DQN - Test Episode**
 
-![DQN Test Episode](https://raw.githubusercontent.com/ushio2580/Dynamic-6x6-Maze-Solver-with-DQN-and-Dyna-Q-Agents/blob/f52be82ec287b3dfd5066b7e417e5a4200d41c31/assets/dqn/test_ep_1.gif)
+![DQN Test Episode](https://raw.githubusercontent.com/ushio2580/Dynamic-6x6-Maze-Solver-with-DQN-and-Dyna-Q-Agents/f52be82ec287b3dfd5066b7e417e5a4200d41c31/assets/dqn/test_ep_1.gif)
 
 - **DQN**: Success rate: **100%**, Average steps: **10.00**
 
@@ -72,7 +72,7 @@ Both agents support:
 
 ### 🤖 **Dyna-Q - Test Episode**
 
-![Dyna-Q Test Episode](https://raw.githubusercontent.com/ushio2580/Dynamic-6x6-Maze-Solver-with-DQN-and-Dyna-Q-Agents/blob/main/assets/dynaq/test_ep_1.gif)
+![Dyna-Q Test Episode](https://raw.githubusercontent.com/ushio2580/Dynamic-6x6-Maze-Solver-with-DQN-and-Dyna-Q-Agents/main/assets/dynaq/test_ep_1.gif)
 
 - **Dyna-Q**: Success rate: **100%**, Average steps: **10.00**
 
